@@ -14,3 +14,5 @@ if __name__ == '__main__':
     print(my_pizza.name)
     print(my_pizza.ingredinete)
     print(my_pizza.price)
+
+
